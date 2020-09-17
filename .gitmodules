@@ -1,0 +1,3 @@
+[submodule "samp-saa2-extract/urmem"]
+	path = samp-saa2-extract/urmem
+	url = https://github.com/spmn/urmem.git
